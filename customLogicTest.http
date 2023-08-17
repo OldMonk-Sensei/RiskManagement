@@ -1,0 +1,1 @@
+GET http://localhost:4004/service/risk/Risks HTTP/1.1
